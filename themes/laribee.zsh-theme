@@ -2,7 +2,7 @@
 
 PROMPT='
 $(_user_host)${_current_dir} $(git_prompt_info) $(_ruby_version)
-%{$fg[$CARETCOLOR]%}▶%{$resetcolor%} '
+%{$fg[$CARETCOLOR]%}🤘🏻 %{$resetcolor%} '
 
 PROMPT2='%{$fg[$CARETCOLOR]%}◀%{$reset_color%} '
 
